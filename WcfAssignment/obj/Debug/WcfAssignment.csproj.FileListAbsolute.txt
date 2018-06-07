@@ -1,0 +1,7 @@
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\obj\Debug\WcfAssignment.csprojAssemblyReference.cache
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\obj\Debug\WcfAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\bin\WcfAssignment.dll.config
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\bin\WcfAssignment.dll
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\bin\WcfAssignment.pdb
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\obj\Debug\WcfAssignment.dll
+C:\Users\Dinesh.Nallagachu\source\repos\WcfAssignment\WcfAssignment\obj\Debug\WcfAssignment.pdb
